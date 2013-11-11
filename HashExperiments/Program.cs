@@ -2,15 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace HashExperiments
 {
     using System.Diagnostics;
-    using System.Runtime.Remoting.Metadata.W3cXsd2001;
     using System.Security.Cryptography;
-    using System.Security.Policy;
-    using System.Web;
     using ServiceStack.Text;
 
     class Program
