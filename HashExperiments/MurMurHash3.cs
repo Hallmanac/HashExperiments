@@ -1,4 +1,9 @@
-﻿namespace HashExperiments
+﻿/*
+ * This code was taken from a blog post by Adam Horvath.
+ * http://blog.teamleadnet.com/2012/08/murmurhash3-ultra-fast-hash-algorithm.html
+ */
+
+namespace HashExperiments
 {
     using System;
 
